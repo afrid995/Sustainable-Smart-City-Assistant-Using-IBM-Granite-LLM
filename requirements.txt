@@ -6,6 +6,7 @@ python-dotenv
 sentence-transformers
 pydantic-settings
 pinecone
+plotly
 scikit-learn
 pandas
 matplotlib
